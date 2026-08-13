@@ -1,5 +1,5 @@
 :Key,Id
 :Use Fun.WindowsMachineId() or Fun.NinjaMachineId()
 :Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography\MachineGuid
-WS2,a8c62e84-1162-4fa3-bf38-0ce61106025x6
+WS2,a8c62e84-1162-4fa3-bf38-0ce611060256
 WSG,dfefc6c1-6533-4fa9-a8bf-ca331caa6a5f
